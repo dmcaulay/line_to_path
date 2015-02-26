@@ -10,5 +10,6 @@ $ python setup.py install
 
 ```bash
 $ line_to_path test/example.py 4
+> .ExampleClass.method_foo
 ```
 
