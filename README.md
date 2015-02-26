@@ -1,4 +1,4 @@
-# A plugin to run nose tests by line number.
+# A utility to convert a file name and a line number into a module path.
 
 ## To install
 
